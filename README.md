@@ -58,27 +58,26 @@ A real-time web application that helps users report, search, and recover lost it
 
 ---
 
+
+
 ## 📸 Screenshots
 
-### 🔐 Login Page
 
-![Login Screenshot](screenshots/login.png)
+|🔐 Login | 📝 Register |
+|------|----------|
+| ![](screenshots/login.png) | ![](screenshots/register.png) |
 
-### 📝 Register Page
 
-![Register Screenshot](screenshots/register.png)
+|📊 Dashboard |🔍 Search |
+|----------|--------|
+| ![](screenshots/dashboard.png) | ![](screenshots/search.png) |
 
-### 📊 Dashboard
 
-![Dashboard Screenshot](screenshots/dashboard.png)
 
-### 🔍 Search Items
+|📤 Report Lost Item|🔍 📤 Report Found Item |
+|----------|--------|
+| ![](screenshots/dashboard.png) | ![](screenshots/search.png) |
 
-![Search Screenshot](screenshots/search.png)
-
-### 📤 Report Lost Item
-
-![Lost Item Screenshot](screenshots/lost.png)
 
 ---
 
