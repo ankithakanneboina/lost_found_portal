@@ -23,6 +23,7 @@ A real-time web application that helps users report, search, and recover lost it
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -32,15 +33,28 @@ A real-time web application that helps users report, search, and recover lost it
 
 **Backend:**
 
-* Node.js / Django / Flask (choose yours)
+* Node.js / Django / Flask
 
 **Database:**
 
 * MongoDB / Firebase / MySQL
 
+**Machine Learning:**
+
+* Convolutional Neural Networks (CNN) for image classification
+* Machine Learning for item detection and matching
+* Image similarity techniques for lost & found verification
+
+**Computer Vision:**
+
+* OpenCV for image processing
+* Image preprocessing (resizing, filtering, feature extraction)
+
 **Deployment:**
 
-* Vercel / Netlify / Render
+* Vercel / Netlify (Frontend)
+* Render / Railway (Backend)
+
 
 ---
 
