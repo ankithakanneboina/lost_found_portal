@@ -136,7 +136,7 @@ Feel free to fork this repo and submit a pull request.
 ## 📧 Contact
 
 For any queries or suggestions:
-📩 [your-email@example.com](mailto:ankithakanneboina350@gmail.com)
+📩 [ankithakanneboina350@gmail.com](mailto:ankithakanneboina350@gmail.com)
 
 ---
 
