@@ -74,7 +74,7 @@ A real-time web application that helps users report, search, and recover lost it
 
 
 
-|📤 Report Lost Item|🔍 📤 Report Found Item |
+|📤 Report Lost Item|🔍  Report Found Item |
 |----------|--------|
 | ![](screenshots/dashboard.png) | ![](screenshots/search.png) |
 
@@ -136,7 +136,7 @@ Feel free to fork this repo and submit a pull request.
 ## 📧 Contact
 
 For any queries or suggestions:
-📩 [your-email@example.com](mailto:your-email@example.com)
+📩 [your-email@example.com](mailto:ankithakanneboina350@gmail.com)
 
 ---
 
